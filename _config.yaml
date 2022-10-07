@@ -1,0 +1,6 @@
+path: './'
+port: 41184
+anki_port: 8765
+token: my token
+tags:
+- anki
